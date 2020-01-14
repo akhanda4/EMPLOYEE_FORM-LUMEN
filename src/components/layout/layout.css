@@ -1,0 +1,114 @@
+html {
+  scroll-behavior: smooth !important;
+}
+.form {
+  margin: 0px !important;
+  font-size: 1.5rem !important;
+}
+.table {
+  font-size: 1.5rem !important;
+  margin: auto;
+  height: auto;
+  box-shadow: 0 8px 50px -10px black;
+  color: white;
+  text-align: center;
+  font-size: large !important;
+  background-color: rgba(0, 0, 0, 0.952);
+}
+.table-data {
+  outline: none;
+  padding: 0.7rem 1rem;
+}
+.table:last-child {
+  padding: 2rem !important;
+}
+input {
+  font-size: 1rem !important;
+}
+.jqx-danger {
+  font-size: 1rem !important;
+  font-weight: bolder;
+  padding: 1rem 0.3rem;
+}
+.jqx-success {
+  font-size: 1rem !important;
+  font-weight: bolder;
+  padding: 1rem 0.1rem;
+}
+.t-and-c {
+  position: relative;
+  top: 5px;
+  vertical-align: middle;
+}
+.status {
+  font-size: 1rem !important;
+  width: 5rem !important;
+}
+.label-1 {
+  background: #252830;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  padding-top: 5px;
+  padding-bottom: 0;
+}
+.label-2 {
+  background: #252830;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  padding: 2px 0px;
+}
+h2 {
+  margin: 0 0 1rem 0;
+}
+.jqx-input-label {
+  visibility: hidden !important;
+}
+/* jqx-formatted-input {
+
+} */
+.spans_s {
+  border-bottom-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+}
+span {
+  display: block;
+}
+span#dob {
+  width: 98%;
+}
+span#phone,
+span#hobbies,
+span#address,
+span#languages,
+span#last_name {
+  width: 99%;
+}
+span#first_name {
+  margin-left: 0.5px;
+}
+span#terms {
+  margin-left: 4.5px;
+}
+span#last_name {
+  margin-left: 2px;
+}
+span#address,
+span#languages {
+  margin-left: 1px;
+}
+span#terms {
+  width: 51%;
+}
+[role="button"]:hover {
+  cursor: pointer;
+}
+[placeholder="Phone*"] {
+  text-align: left;
+}
+.reasons {
+  background-color: #252830;
+  padding: 15px;
+  font-weight: bolder;
+  color: rgb(52, 154, 238);
+  border-radius: 4px;
+}

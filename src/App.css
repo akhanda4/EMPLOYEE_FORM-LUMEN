@@ -1,0 +1,8 @@
+* {
+  font-family: "Montserrat", sans-serif;
+}
+.root {
+  margin-top: 0 !important;
+  background-color: #5b6467;
+  background-image: linear-gradient(315deg, #5b6467 0%, #8b939a 74%);
+}

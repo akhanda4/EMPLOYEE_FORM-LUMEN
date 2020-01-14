@@ -1,0 +1,58 @@
+.content {
+  margin: auto;
+  margin-top: 1rem;
+}
+.spinner {
+  margin: auto !important;
+  display: block !important;
+}
+.ag-theme-balham-dark {
+  margin-bottom: 7rem;
+}
+.ag-theme-balham .ag-icon-pin {
+  font-family: "Font Awesome 5 Free";
+  /* FontAwesome uses font-weight bold */
+  font-weight: bold;
+}
+.ag-theme-balham .ag-icon-pin::before {
+  content: "\f08d";
+}
+.bttest:hover {
+  color: blue;
+  font-size: 1rem;
+}
+
+.test-footer,
+.page_btns {
+  text-align: right;
+  background-color: #2d3436;
+  color: white;
+  font-size: 1.2rem;
+}
+.navigate:hover {
+  cursor: pointer;
+}
+.navigate {
+  display: inline-block;
+  font-size: 1.7rem;
+  padding: 2px;
+  vertical-align: middle;
+}
+.num {
+  font-size: 1.3rem;
+  display: inline-block;
+}
+
+.navigate:active {
+  font-size: 1.62rem;
+  color: greenyellow;
+}
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Old versions of Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Opera and Firefox */
+}

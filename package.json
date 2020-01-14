@@ -1,0 +1,77 @@
+{
+  "_from": "https://github.com/jqwidgets/jqwidgets_react_app/tarball/master",
+  "_id": "jqwidgets_react_app@8.1.4",
+  "_inBundle": false,
+  "_integrity": "sha512-JxxUWJq/syGP2mo3qYafVOk6Z+RDRDQ21u7RNeNRHD0sVlPLsESJwWx3VHFOcXz0xMTaZZef9JtjLtnUCFCkJA==",
+  "_location": "/jqwidgets_react_app/jqwidgets_react_app",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "jqwidgets_react_app@https://github.com/jqwidgets/jqwidgets_react_app/tarball/master",
+    "name": "jqwidgets_react_app",
+    "escapedName": "jqwidgets_react_app",
+    "rawSpec": "https://github.com/jqwidgets/jqwidgets_react_app/tarball/master",
+    "saveSpec": "https://github.com/jqwidgets/jqwidgets_react_app/tarball/master",
+    "fetchSpec": "https://github.com/jqwidgets/jqwidgets_react_app/tarball/master"
+  },
+  "_requiredBy": [],
+  "_resolved": "https://github.com/jqwidgets/jqwidgets_react_app/tarball/master",
+  "_shasum": "24fdbdcd5eac179f4c68f987bbc88f0986a6b8bb",
+  "_spec": "jqwidgets_react_app@https://github.com/jqwidgets/jqwidgets_react_app/tarball/master",
+  "_where": "/home/aman/.nvm/versions/node/v10.13.0/lib/node_modules/jqwidgets_react_app",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@types/jest": "24.0.15",
+    "@types/node": "12.0.8",
+    "@types/react": "16.8.20",
+    "@types/react-dom": "16.8.4",
+    "ag-grid-community": "^22.1.1",
+    "ag-grid-react": "^22.1.1",
+    "bootstrap": "^4.4.1",
+    "bootstrap-less": "^3.3.8",
+    "font-awesome-icons": "^1.6.0",
+    "jquery": "^3.4.1",
+    "jqwidgets-scripts": "^8.1.4",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-icons": "^3.8.0",
+    "react-md-spinner": "^1.0.0",
+    "react-scripts": "^3.3.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.88.2",
+    "typescript": "3.5.2"
+  },
+  "deprecated": false,
+  "description": "Please refer to its documentation:   - [Getting Started](https://github.com/jqwidgets/jqwidgets_react_app/blob/master/README.md#getting-started)    - [jQWidgets React TSX Documentation](http://www.jqwidgets.com/reactjs-components-documentation/)",
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "name": "jqwidgets_react_app",
+  "private": true,
+  "main": "index.js",
+  "homepage": "https://akhanda4.github.io/akhanda4/form-builder",
+  "scripts": {
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "start": "react-scripts start",
+    "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "version": "8.1.4",
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
